@@ -3,4 +3,4 @@ Simple implementation of a genetic algorithim where a chromosome is crossed over
 
 ## Example Simulation:
 
-![figure 1](figure_1.png)
+![figure 1](Figure_1.png)
